@@ -7,6 +7,8 @@ const Header = () => {
         <li><NavLink to="/">Home</NavLink></li>
         <li><NavLink to="/addCoffee">Add Coffee</NavLink></li>
         <li><NavLink to="/updateCoffee">Update Coffee</NavLink></li>
+        <li><NavLink to="/login">Login</NavLink></li>
+        <li><NavLink to="/users">User</NavLink></li>
         
     </>
 
